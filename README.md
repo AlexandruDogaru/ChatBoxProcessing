@@ -1,7 +1,7 @@
 # ChatBoxProcessing
 This is a client-server application made in Processing, the main functionality is that of a chatting application, but it can be extended for other uses as well.
 
-For details about how this application works and why I made some code decision consult the documentation.
+For details about how this application works and why I made some code decision consult the [documentation](Documentation_ChatBox.md).
 
 ## How to run the application
 1. Download Processing from: https://processing.org/download/
